@@ -1,0 +1,4 @@
+who is used for to see the variables
+whos is used for to see the variables with sizes and location
+clear is used for to remove all variables
+clear x is used for to remove x variable
